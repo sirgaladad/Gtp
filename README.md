@@ -4,8 +4,10 @@ Summary listing of Generative Ai bots that I have created on the OpenAi platform
 
 Available GPTs created by Cobobots.com
 💙 Project Erin
-Helpful guide for GPT API integration and usage with GitHub integration.
-Instruction | [GPT (https://chat.openai.com/g/g-rL7baXqFV-project-erin)
+Compassionate Ally in Your Journey Beyond Cancer.
+https://chat.openai.com/g/g-rL7baXqFV-project-erin
+
+Instruction | [GPT ()
 💊 MedicGPT
 A medical aid bot providing diagnosis and educational insights.
 Instruction | GPT
